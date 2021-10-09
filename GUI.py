@@ -4,7 +4,7 @@ from main import solve, valid
 import time
 pygame.font.init()
 
-
+# Graphical User Interface, to visually see what's going on. No actually algorithm goes in here.
 class Grid:
     board = [
         [7, 8, 0, 4, 0, 0, 1, 2, 0],
